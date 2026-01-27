@@ -15,3 +15,9 @@ def divide(x, y):
     else:
         return x / y
 
+x=input("Ingresa el valor de x")
+y=input("Ingresa el valor de y")
+result=add(x,y)
+print(f"El resultado es: {result}")
+
+
